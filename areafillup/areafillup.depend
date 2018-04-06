@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513165327 source:p:\c++\areafillup\main.cpp
+	<iostream>
+	<graphics.h>
+
