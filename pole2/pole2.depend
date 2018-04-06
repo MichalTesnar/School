@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507721915 source:p:\pole2\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1507893629 source:p:\c\pole2\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
