@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511523320 source:p:\c++\ramgen\main.cpp
+	<iostream>
+	<ctime>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446671344 source:p:\selectsort\main.cpp
+	<iostream>
+
+1510141735 source:p:\c++\selectsort\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

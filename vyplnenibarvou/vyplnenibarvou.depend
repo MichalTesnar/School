@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512733508 source:p:\c++\vyplnenibarvou\main.cpp
+	<iostream>
+	<graphics.h>
+
