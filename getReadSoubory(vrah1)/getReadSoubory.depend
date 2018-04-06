@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516966155 source:p:\c++\getreadsoubory\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521025541 source:p:\c++\garminwatchtrasa\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
