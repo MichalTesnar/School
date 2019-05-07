@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553599795 source:p:\c++\2dpole\main.cpp
+	<iostream>
+	<time.h>
+	<bits/stdc++.h>
+
