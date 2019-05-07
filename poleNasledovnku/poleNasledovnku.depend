@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556619573 source:p:\c++\polenasledovnku\main.cpp
+	<iostream>
+	<time.h>
+	<bits/stdc++.h>
+
