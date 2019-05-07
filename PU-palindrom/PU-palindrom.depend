@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547547626 source:p:\c++\pu-palindrom\main.cpp
+	<iostream>
+	<fstream>
+
